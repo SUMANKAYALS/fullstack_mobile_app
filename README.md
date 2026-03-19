@@ -197,7 +197,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Suman Kayal**
 🚀 Passionate Developer | MERN Stack | React Native
-- GitHub: [@suman_kayal]([https://github.com](https://github.com/SUMANKAYALS)/)
+- GitHub: [@suman_kayal](https://github.com/SUMANKAYALS)
 
 ---
 
